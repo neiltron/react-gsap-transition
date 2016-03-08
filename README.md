@@ -1,6 +1,9 @@
 # react-gsap-transition
 [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Dev Dependency Status][daviddm-dev-image]][daviddm-url]
-> Connect React components to GSAP to quickly stagger groups of items
+
+Creates an easy bridge between ReactTransitionGroup and GSAP. This is specifically helpful with staggering a group of items in/out of view with a TweenMax-based tween on enter/leave.
+
+If GSAP isn't a requirement for your project, you might be better off with something like [react-motion](https://github.com/chenglou/react-motion).
 
 ## Installation
 
