@@ -1,5 +1,5 @@
 # react-gsap-transition
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Dev Dependency Status][daviddm-dev-image]][daviddm-url]
+[![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Dev Dependency Status][daviddm-dev-image]][daviddm-url]
 > Connect React components to GSAP to quickly stagger groups of items
 
 ## Installation
@@ -97,8 +97,6 @@ MIT © [Neil Pullman](http://descend.org)
 
 [npm-image]: https://badge.fury.io/js/react-gsap-transition.svg
 [npm-url]: https://npmjs.org/package/react-gsap-transition
-[travis-image]: https://travis-ci.org/neiltron/react-gsap-transition.svg?branch=master
-[travis-url]: https://travis-ci.org/neiltron/react-gsap-transition
 [daviddm-image]: https://david-dm.org/neiltron/react-gsap-transition.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/neiltron/react-gsap-transition
 [daviddm-dev-image]: https://david-dm.org/neiltron/react-gsap-transition/dev-status.svg?theme=shields.io
