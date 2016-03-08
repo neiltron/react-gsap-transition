@@ -32,7 +32,7 @@ export default class extends GSAPTransitionItem {
 
   render() {
     return (
-      <div><span ref='el'>ITEM</span></div>
+      <div><span ref='el'>{this.props.text}</span></div>
     )
   }
 
