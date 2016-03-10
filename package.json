@@ -1,6 +1,6 @@
 {
   "name": "react-gsap-transition",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Connect React components to GSAP to quickly stagger groups of items",
   "homepage": "",
   "author": {
@@ -46,7 +46,7 @@
       "mocha": true
     }
   },
-  "repository": "git@github.com:neiltron/dotfiles.git",
+  "repository": "git@github.com:neiltron/react-gsap-transition.git",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
